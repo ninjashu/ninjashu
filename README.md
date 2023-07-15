@@ -96,9 +96,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjashu&show_icons=true&locale=en&layout=compact" alt="ninjashu" width="400"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjashu&show_icons=true&locale=en&layout=compact" alt="ninjashu" width="45%"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ninjashu&show_icons=true&locale=en" alt="ninjashu" width="500"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ninjashu&show_icons=true&locale=en" alt="ninjashu" width="45%"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninjashu&" alt="ninjashu" /></p>
