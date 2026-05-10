@@ -27,13 +27,17 @@
         <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
         <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
         <a href="https://www.mathworks.com/products/simulink.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/></a>
-        <br><br>
+        <br>
+        <br>
         <img src="https://img.shields.io/badge/AUTOSAR-Layer-blue?style=flat-square&logo=autosar" alt="AUTOSAR" height="25"/>
         <br>
-        <img src="https://img.shields.io/badge/CANoe-Vector-00539B?style=flat-square" alt="CANoe" height="25"/>
-        <img src="https://img.shields.io/badge/TRESOS-EB-009A44?style=flat-square" alt="TRESOS" height="25"/>
+        <img src="https://it.mathworks.com/products/connections/product_detail/vector-canoe/_jcr_content/logo.adapt.full.medium.jpg/1735905055273.jpg" alt="CANoe" height="25"/>
         <br>
-        <img src="https://img.shields.io/badge/ASPICE-L2-orange?style=flat-square" alt="ASPICE" height="25"/>
+        <img src="[https://img.shields.io/badge/CANoe-Vector-00539B?style=flat-square](https://it.mathworks.com/products/connections/product_detail/vector-canoe/_jcr_content/logo.adapt.full.medium.jpg/1735905055273.jpg)" alt="CANoe" width="55"/>
+        <br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1weohFid62VCE8-8vJ3JyKjDqTSpPJbkSemyNv9Ev&s" alt="TRESOS" height="auto" width="45"/>
+        <br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2C7Kht3jDKTNmQqi4JyU6D4pKTCaq7FPgAg&s" alt="ASPICE" height="auto" width="45"/>
       </p>
     </td>
     <td valign="top" width="33%">
@@ -43,10 +47,11 @@
         <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
         <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
         <br><br>
-        <img src="https://img.shields.io/badge/VBA-Automation-8E44AD?style=flat-square&logo=microsoft-excel" alt="VBA" height="25"/>
+        <img src="https://img.shields.io/badge/VBA-Automation-8E44AD?style=flat-square&logo=microsoft-excel" alt="VBA" height="25" width="45"/>
         <br>
-        <img src="https://img.shields.io/badge/WinIDEA-iSystem-E67E22?style=flat-square" alt="WinIDEA" height="25"/>
-        <img src="https://img.shields.io/badge/Debugger-I--System-grey?style=flat-square" alt="I-System" height="25"/>
+        <img src="https://www.isystem.com/files/content/img/winIDEA_256.png" alt="WinIDEA" height="auto" width="45"/>
+        <br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVAlhvHK6Clk9byrSd7OYFopltdkyuqWuSA&s" alt="I-System" height="auto" width="45"/>
       </p>
     </td>
     <td valign="top" width="33%">
@@ -83,9 +88,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ninjashu&theme=onedark" alt="Trophies" width="100%"/>
   </a>
-  <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjashu&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Langs" width="48%"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ninjashu&show_icons=true&locale=en&theme=onedark" alt="Stats" width="48%"/>
-  <br><br>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninjashu&theme=onedark" alt="Streak" />
 </div>
